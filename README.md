@@ -1,1 +1,4 @@
-# The_Guessing_Number_Game
+# The Guessing Number Game
+
+Simple python game.\n
+Rules:
